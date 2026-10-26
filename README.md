@@ -179,5 +179,15 @@ MIT
 
 ---
 
+## 💸 Donations
+
+If you'd like to support this project:
+
+- 🇦🇷 ARS (Argentina)  
+  Alias: `lazaro.503.alaba.mp`
+
+- 🌎 USD (Argentina only, local transfers)  
+  Alias: `ahogada.duras.foca`
+
 Built by [Lazaro Gomez Vitolo](https://github.com/Lazaro549) – AI & Robotics Developer  
 Portfolio: https://lazaro549.github.io/Portfolio/
