@@ -1,0 +1,121 @@
+[
+  {
+    "id": "MLA123456789",
+    "title": "Samsung Galaxy A54 5G 128GB Negro",
+    "price": 489999,
+    "currency_id": "ARS",
+    "condition": "new",
+    "sold_quantity": 342,
+    "available_quantity": 28,
+    "shipping": {"free_shipping": true},
+    "seller": {"nickname": "TECHSTORE_AR", "reputation": "green"},
+    "category": "Celulares y Smartphones",
+    "description": "Samsung Galaxy A54 5G con 128GB de almacenamiento, cámara triple de 50MP, pantalla Super AMOLED de 6.4 pulgadas. Ideal para uso diario con excelente autonomía.",
+    "attributes": {
+      "brand": "Samsung",
+      "model": "Galaxy A54",
+      "storage": "128GB",
+      "color": "Negro"
+    },
+    "price_history": [
+      {"date": "2026-09-01", "price": 519999},
+      {"date": "2026-09-15", "price": 499999},
+      {"date": "2026-10-01", "price": 489999}
+    ]
+  },
+  {
+    "id": "MLA987654321",
+    "title": "iPhone 13 128GB Usado Excelente Estado",
+    "price": 620000,
+    "currency_id": "ARS",
+    "condition": "used",
+    "sold_quantity": 89,
+    "available_quantity": 5,
+    "shipping": {"free_shipping": false},
+    "seller": {"nickname": "APPLE_RESELLER", "reputation": "green"},
+    "category": "Celulares y Smartphones",
+    "description": "iPhone 13 128GB en excelente estado, batería al 92%, sin rayones. Incluye caja original y cable.",
+    "attributes": {
+      "brand": "Apple",
+      "model": "iPhone 13",
+      "storage": "128GB",
+      "color": "Midnight"
+    },
+    "price_history": [
+      {"date": "2026-08-20", "price": 680000},
+      {"date": "2026-09-10", "price": 650000},
+      {"date": "2026-10-05", "price": 620000}
+    ]
+  },
+  {
+    "id": "MLA555666777",
+    "title": "Auriculares Bluetooth Sony WH-1000XM5",
+    "price": 389999,
+    "currency_id": "ARS",
+    "condition": "new",
+    "sold_quantity": 156,
+    "available_quantity": 12,
+    "shipping": {"free_shipping": true},
+    "seller": {"nickname": "AUDIO_PRO", "reputation": "green"},
+    "category": "Audio",
+    "description": "Auriculares over-ear con cancelación de ruido líder en la industria, 30 horas de batería y sonido Hi-Res.",
+    "attributes": {
+      "brand": "Sony",
+      "model": "WH-1000XM5",
+      "type": "Over-ear"
+    },
+    "price_history": [
+      {"date": "2026-09-01", "price": 419999},
+      {"date": "2026-09-25", "price": 399999},
+      {"date": "2026-10-10", "price": 389999}
+    ]
+  },
+  {
+    "id": "MLA111222333",
+    "title": "Notebook Lenovo IdeaPad 3 15IAU7 Ryzen 5 8GB 512GB SSD",
+    "price": 899999,
+    "currency_id": "ARS",
+    "condition": "new",
+    "sold_quantity": 67,
+    "available_quantity": 9,
+    "shipping": {"free_shipping": true},
+    "seller": {"nickname": "PC_FACTORY", "reputation": "green"},
+    "category": "Computación",
+    "description": "Notebook Lenovo IdeaPad 3 con procesador AMD Ryzen 5, 8GB RAM, 512GB SSD, pantalla 15.6 FHD. Perfecta para estudio y trabajo.",
+    "attributes": {
+      "brand": "Lenovo",
+      "model": "IdeaPad 3",
+      "processor": "Ryzen 5",
+      "ram": "8GB",
+      "storage": "512GB SSD"
+    },
+    "price_history": [
+      {"date": "2026-08-15", "price": 949999},
+      {"date": "2026-09-20", "price": 919999},
+      {"date": "2026-10-12", "price": 899999}
+    ]
+  },
+  {
+    "id": "MLA444555666",
+    "title": "Zapatillas Nike Air Max 270 Negras",
+    "price": 189999,
+    "currency_id": "ARS",
+    "condition": "new",
+    "sold_quantity": 412,
+    "available_quantity": 34,
+    "shipping": {"free_shipping": true},
+    "seller": {"nickname": "SPORTS_ZONE", "reputation": "green"},
+    "category": "Calzado",
+    "description": "Zapatillas Nike Air Max 270 en color negro, cómodas para uso diario y running liviano. Talles del 39 al 45.",
+    "attributes": {
+      "brand": "Nike",
+      "model": "Air Max 270",
+      "color": "Negro"
+    },
+    "price_history": [
+      {"date": "2026-09-05", "price": 209999},
+      {"date": "2026-09-28", "price": 199999},
+      {"date": "2026-10-15", "price": 189999}
+    ]
+  }
+]
